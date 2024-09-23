@@ -10,3 +10,8 @@
 ([stm32的多级菜单显示](https://blog.csdn.net/wyhnbkls/article/details/139375000?spm=1001.2014.3001.5506))
 
 ([stm32的菜单框运动详解](https://blog.csdn.net/weixin_45633002/article/details/136953093?spm=1001.2014.3001.5506))
+
+([github readme基本语法](https://blog.csdn.net/Strive_For_Future/article/details/120956016?ops_request_misc=%257B%2522request%255Fid%2522%253A%252261F4BCEE-5F5A-4DBF-BF3C-7A0AF7F3EAD7%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=61F4BCEE-5F5A-4DBF-BF3C-7A0AF7F3EAD7&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-120956016-null-null.142^v100^pc_search_result_base9&utm_term=github%E7%9A%84readme%E6%80%8E%E4%B9%88%E5%86%99&spm=1018.2226.3001.4187))
+
+([git常用命令](https://blog.csdn.net/qq_51800384/article/details/135729505?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522CB149C0D-2D5D-446E-89A8-8C21F16D1FD6%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=CB149C0D-2D5D-446E-89A8-8C21F16D1FD6&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-135729505-null-null.142))
+(补充：删除某个已经存在的远程仓库别名：git remote rm origin)
