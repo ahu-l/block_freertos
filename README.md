@@ -14,4 +14,10 @@
 ([github readme基本语法](https://blog.csdn.net/Strive_For_Future/article/details/120956016?ops_request_misc=%257B%2522request%255Fid%2522%253A%252261F4BCEE-5F5A-4DBF-BF3C-7A0AF7F3EAD7%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=61F4BCEE-5F5A-4DBF-BF3C-7A0AF7F3EAD7&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-120956016-null-null.142^v100^pc_search_result_base9&utm_term=github%E7%9A%84readme%E6%80%8E%E4%B9%88%E5%86%99&spm=1018.2226.3001.4187))
 
 ([git常用命令](https://blog.csdn.net/qq_51800384/article/details/135729505?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522CB149C0D-2D5D-446E-89A8-8C21F16D1FD6%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=CB149C0D-2D5D-446E-89A8-8C21F16D1FD6&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-135729505-null-null.142))
+
 (补充：删除某个已经存在的远程仓库别名：git remote rm origin)
+
+
+分支的作用
+你branch 一个新分支，会继承master文件，然后你切换工作区到新分支，创建的文件切换到master分支看不见，相当于两个版本，当你新分支觉得稳定的时候可以merge，讲新分支的文件全部复制到master，然后提交到github。<br>
+还有一个就是你在本地创建的分支不会影响到github的分支，然后你可以使用命令来在github创建分支也可以删除分支。<br>
